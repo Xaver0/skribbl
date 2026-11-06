@@ -1,10 +1,3 @@
-# skribbl-wordlist v2
-# generated: 2026-11-05
-# line format: Word<TAB>colours      (the colours column is optional; a plain word on its own line is valid)
-# colours: paletteIndex:votes, comma-separated, most votes first = dominant drawing colour seen while the word was played (white/black ignored)
-# merge rule: when combining two files take the MAX votes per word + colour (idempotent, never double counts)
-# palette: 0=#FFFFFF 1=#C1C1C1 2=#EF130B 3=#FF7100 4=#FFE400 5=#00CC00 6=#00FF91 7=#00B2FF 8=#231FD3 9=#A300BA 10=#DF69A7 11=#FFAC8E 12=#A0522D 13=#000000 14=#505050 15=#740B07 16=#C23800 17=#E8A200 18=#004619 19=#00785D 20=#00569E 21=#0E0865 22=#550069 23=#873554 24=#CC774D 25=#63300D
-# palette index = left to right, top row (0-12) then bottom row (13-25) of the skribbl colour picker; i and i+13 are light/dark variants
 Abflussrohr
 abstrakt
 AC/DC
@@ -269,6 +262,7 @@ Diabolo
 Diagonale
 Diagramm
 Diamant
+dick	11:1
 Dickkopf
 Didgeridoo
 Dieb
@@ -400,6 +394,7 @@ Flachdach
 Flamingo
 Flaschenöffner
 Flash
+Fleisch
 Fliege
 fliegendes Schwein
 Fliegenpilz
@@ -742,6 +737,7 @@ Krankenwagen
 Krankheit
 kratzen
 Krawatte
+Kredithai
 Kreditkarte
 Kreis
 Kreisel
@@ -1482,6 +1478,7 @@ Vision
 Visitenkarte
 Vogelbeere
 Vogelscheuche
+Vogelspinne
 Vogelstrauß
 Volleyball
 vollständig
